@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Art Space</string>
+    <string name="leaf_zoomed">Leaf zoomed</string>
+    <string name="mountain">Mountain</string>
+    <string name="car">Car</string>
+    <string name="leaves">Leaves</string>
+    <string name="autumn_leaves">Autumn leaves</string>
+    <string name="coffee_shop">Coffee shop</string>
+    <string name="flowers">Flowers</string>
+    <string name="building">Buildings</string>
 </resources>
