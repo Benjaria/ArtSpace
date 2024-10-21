@@ -8,4 +8,12 @@
     <string name="coffee_shop">Coffee shop</string>
     <string name="flowers">Flowers</string>
     <string name="building">Buildings</string>
+    <string name="artist1">Artist 1 (1999)</string>
+    <string name="artist2">Artist 2 (2001)</string>
+    <string name="artist3">Artist 3 (2003)</string>
+    <string name="artist4">Artist 4 (2005)</string>
+    <string name="artist5">Artist 5 (2007)</string>
+    <string name="artist6">Artist 6 (2009)</string>
+    <string name="artist7">Artist 7 (2011)</string>
+    <string name="artist8">Artist 8 (2013)</string>
 </resources>
